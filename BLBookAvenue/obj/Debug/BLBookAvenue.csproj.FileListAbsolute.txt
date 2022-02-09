@@ -1,0 +1,12 @@
+C:\Users\yllos\source\repos\BookAvenue\BLBookAvenue\obj\Debug\BLBookAvenue.csprojAssemblyReference.cache
+C:\Users\yllos\source\repos\BookAvenue\BLBookAvenue\obj\Debug\BLBookAvenue.csproj.CoreCompileInputs.cache
+C:\Users\yllos\source\repos\BookAvenue\BLBookAvenue\bin\Debug\BLBookAvenue.dll
+C:\Users\yllos\source\repos\BookAvenue\BLBookAvenue\bin\Debug\BLBookAvenue.pdb
+C:\Users\yllos\source\repos\BookAvenue\BLBookAvenue\obj\Debug\BLBookAvenue.dll
+C:\Users\yllos\source\repos\BookAvenue\BLBookAvenue\obj\Debug\BLBookAvenue.pdb
+C:\Users\alexa\Documents\FH St. Pölten\BookAvenue (1)\BookAvenue\BLBookAvenue\obj\Debug\BLBookAvenue.csproj.AssemblyReference.cache
+C:\Users\alexa\Documents\FH St. Pölten\BookAvenue (1)\BookAvenue\BLBookAvenue\obj\Debug\BLBookAvenue.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\FH St. Pölten\BookAvenue (1)\BookAvenue\BLBookAvenue\obj\Debug\BLBookAvenue.dll
+C:\Users\alexa\Documents\FH St. Pölten\BookAvenue (1)\BookAvenue\BLBookAvenue\obj\Debug\BLBookAvenue.pdb
+C:\Users\alexa\Documents\FH St. Pölten\BookAvenue (1)\BookAvenue\BLBookAvenue\bin\Debug\BLBookAvenue.dll
+C:\Users\alexa\Documents\FH St. Pölten\BookAvenue (1)\BookAvenue\BLBookAvenue\bin\Debug\BLBookAvenue.pdb
